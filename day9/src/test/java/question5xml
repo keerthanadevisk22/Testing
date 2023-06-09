@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+<listeners>
+<listener class-name="selenium.day9.listenerDay09"/>
+</listeners>
+  <test name="Test">
+    <classes>
+      <class name="selenium.day9.Question5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
