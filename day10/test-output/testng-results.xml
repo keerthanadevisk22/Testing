@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-06T15:45:49 IST" name="Default suite" finished-at="2023-06-06T15:45:50 IST" duration-ms="1259">
+    <groups>
+    </groups>
+    <test started-at="2023-06-06T15:45:49 IST" name="Default test" finished-at="2023-06-06T15:45:50 IST" duration-ms="1259">
+      <class name="selenium.day10.excel.TestingUsingExcelsheet">
+        <test-method signature="addmethod(double,double)[pri:0, instance:selenium.day10.excel.TestingUsingExcelsheet@741a8937]" started-at="2023-06-06T15:45:50 IST" name="addmethod" data-provider="td" finished-at="2023-06-06T15:45:50 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addmethod -->
+        <test-method signature="addmethod(double,double)[pri:0, instance:selenium.day10.excel.TestingUsingExcelsheet@741a8937]" started-at="2023-06-06T15:45:50 IST" name="addmethod" data-provider="td" finished-at="2023-06-06T15:45:50 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[24.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addmethod -->
+      </class> <!-- selenium.day10.excel.TestingUsingExcelsheet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
